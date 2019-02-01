@@ -13,7 +13,7 @@
 
 	  <!-- Map-->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-	<script type="text/javascript" src='http://maps.google.com/maps/api/js?key=XXxxXXXXXXX=places'></script>
+	<script type="text/javascript" src='http://maps.google.com/maps/api/js?key=&libraries=places'></script>
 	<script src="<?php echo base_url()?>include/js/locationpicker.jquery.js"></script>
 </head>
 <body>
