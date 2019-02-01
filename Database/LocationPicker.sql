@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 25, 2019 at 09:38 AM
+-- Generation Time: Feb 01, 2019 at 06:48 AM
 -- Server version: 5.6.26
 -- PHP Version: 5.6.12
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `locationpicker`
+-- Database: `LocationPicker`
 --
 
 -- --------------------------------------------------------
